@@ -38,7 +38,7 @@ Or, if you want to see the corresponding HTML/CSS color names:
 ```r
 library(palettewidget)
 palettewidget(c("#ff0000", "#00ff00", "#0000ff"),
-              displayNames = TRUE)  # should display "red", "green", "blue"
+              displayNames = TRUE)  # should display "red", "lime", "blue"
 ```
 
 ## Contributing
