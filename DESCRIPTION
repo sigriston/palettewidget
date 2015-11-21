@@ -1,10 +1,10 @@
 Package: palettewidget
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Color Palette Display Widget
 Version: 0.1
 Date: 2015-11-19
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: Thiago Sigrist <sigrist@gmail.com>
+Maintainer: Thiago Sigrist <sigrist@gmail.com>
+Description: HTML Color Palette Display Widget built with react, htmlwidgets
+License: MIT
 LazyData: TRUE
