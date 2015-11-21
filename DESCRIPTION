@@ -8,3 +8,4 @@ Maintainer: Thiago Sigrist <sigrist@gmail.com>
 Description: HTML Color Palette Display Widget built with react, htmlwidgets
 License: MIT
 LazyData: TRUE
+RoxygenNote: 5.0.1
