@@ -1,0 +1,15 @@
+.palette {
+  display: table;
+  max-width: 100vw;
+}
+
+.palette > ul {
+  display: table-row;
+  max-width: 100vw;
+}
+
+.palette > ul > li {
+  display: table-cell;
+  padding: 30px;
+  font-family: monospace;
+}
